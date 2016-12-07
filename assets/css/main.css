@@ -162,10 +162,10 @@
 	}
 
 		a:before {
-			-moz-transition: color 0.2s ease, text-shadow 0.2s ease;
+/*			-moz-transition: color 0.2s ease, text-shadow 0.2s ease;
 			-webkit-transition: color 0.2s ease, text-shadow 0.2s ease;
 			-ms-transition: color 0.2s ease, text-shadow 0.2s ease;
-			transition: color 0.2s ease, text-shadow 0.2s ease;
+			transition: color 0.2s ease, text-shadow 0.2s ease;*/
 		}
 
 		a:hover {
@@ -495,7 +495,7 @@
 		}
 
 			ul.alt li {
-				border-top: solid 1px #c8cccf;
+				border-top: solid 1px #414f57;
 				padding: 0.5em 0;
 			}
 
@@ -523,7 +523,7 @@
 					width: 3.75em;
 					height: 3.75em;
 					border-radius: 100%;
-					border: solid 1px #c8cccf;
+					border: solid 1px #414f57;
 					line-height: 3.75em;
 					overflow: hidden;
 					text-align: center;
@@ -540,14 +540,14 @@
 						text-transform: none !important;
 					}
 
-					ul.icons li a:before {
+/*					ul.icons li a:before {
 						color: #ffffff;
 						text-shadow: 1.25px 0px 0px #c8cccf, -1.25px 0px 0px #c8cccf, 0px 1.25px 0px #c8cccf, 0px -1.25px 0px #c8cccf;
 					}
 
 					ul.icons li a:hover:before {
 						text-shadow: 1.25px 0px 0px #95B692, -1.25px 0px 0px #95B692, 0px 1.25px 0px #95B692, 0px -1.25px 0px #95B692;
-					}
+					}*/
 
 					ul.icons li a:before {
 						position: absolute;
